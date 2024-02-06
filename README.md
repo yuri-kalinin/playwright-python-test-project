@@ -1,6 +1,5 @@
 # Playwright-Python-Test-Project
-This repository contains a UI testing project that uses
-Python, Pytest, Playwright and Page Object Model pattern
+This repository contains a UI testing project that uses Python, Pytest, Playwright and Page Object Model pattern
 
 # Requirements
 * Python 3.12
@@ -28,4 +27,4 @@ Preferences can be changed in `config.yaml`
 To check the report, open the '/results/report.html' file once the execution has finished
 
 # Showcase
-TODO
+![2024-02-0623-58-25-ezgif com-video-to-gif-converter](https://github.com/yuri-kalinin/playwright-python-test-project/assets/16957236/5adf38d1-d4c1-4f0c-91d3-9d7339a45f18)
