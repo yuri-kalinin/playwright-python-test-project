@@ -1,0 +1,10 @@
+# Project
+/results/
+
+# Python
+.venv/*
+*.pyc
+
+# Pytest
+.pytest_cache/
+*.html
